@@ -11,7 +11,7 @@
   <a href="http://qiita.com/sh-sho">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sh-sho/posts.svg" />
   </a>
-  <//qiita.com/sh-sho">
+  <a href="http://qiita.com/sh-sho">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sh-sho/contributions.svg" />
   </a>
 </p>
@@ -22,5 +22,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sh-sho&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-sho&theme=tokyonight)
+![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-sho&theme=tokyonight)
 
